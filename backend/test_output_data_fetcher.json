@@ -1,0 +1,728 @@
+{
+  "repository": {
+    "name": "Hello-World",
+    "full_name": "octocat/Hello-World",
+    "description": "My first repository on GitHub!",
+    "stars": 3234,
+    "forks": 3990,
+    "watchers": 3234,
+    "language": null,
+    "size": 1,
+    "open_issues": 1994,
+    "created_at": "2011-01-26T19:01:12+00:00",
+    "updated_at": "2025-11-03T11:55:39+00:00",
+    "pushed_at": "2024-08-20T23:54:42+00:00",
+    "default_branch": "master",
+    "has_wiki": true,
+    "has_pages": false,
+    "archived": false
+  },
+  "commits": [
+    {
+      "sha": "7fd1a60",
+      "author": "octocat",
+      "date": "2012-03-06T23:06:50+00:00",
+      "message": "Merge pull request #6 from Spaceghost/patch-1",
+      "additions": 1,
+      "deletions": 1
+    },
+    {
+      "sha": "7629413",
+      "author": "Spaceghost",
+      "date": "2011-09-14T04:42:41+00:00",
+      "message": "New line at end of file. --Signed off by Spaceghost",
+      "additions": 1,
+      "deletions": 1
+    },
+    {
+      "sha": "553c207",
+      "author": "Cameron423698",
+      "date": "2011-01-26T19:06:08+00:00",
+      "message": "first commit",
+      "additions": 1,
+      "deletions": 0
+    }
+  ],
+  "pull_requests": [
+    {
+      "number": 4442,
+      "title": "testing",
+      "state": "open",
+      "user": "thedevdavid",
+      "created_at": "2025-11-03T21:32:25+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4440,
+      "title": "Pull request Bug fix typo",
+      "state": "open",
+      "user": "Pavani-Kolavennu",
+      "created_at": "2025-11-03T10:59:34+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4438,
+      "title": " longestCommonPrefix",
+      "state": "open",
+      "user": "allaspandana",
+      "created_at": "2025-11-02T12:29:43+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4437,
+      "title": "Update README to include version number",
+      "state": "closed",
+      "user": "Sumu082005",
+      "created_at": "2025-10-30T17:50:29+00:00",
+      "merged_at": null,
+      "closed_at": "2025-10-30T17:54:06+00:00"
+    },
+    {
+      "number": 4436,
+      "title": "Update README",
+      "state": "closed",
+      "user": "Sumu082005",
+      "created_at": "2025-10-30T17:49:42+00:00",
+      "merged_at": null,
+      "closed_at": "2025-10-30T17:51:08+00:00"
+    },
+    {
+      "number": 4435,
+      "title": "Feature a2",
+      "state": "closed",
+      "user": "Sumu082005",
+      "created_at": "2025-10-30T17:49:04+00:00",
+      "merged_at": null,
+      "closed_at": "2025-10-30T17:54:22+00:00"
+    },
+    {
+      "number": 4434,
+      "title": "Added A2 test file",
+      "state": "closed",
+      "user": "Sumu082005",
+      "created_at": "2025-10-30T17:46:18+00:00",
+      "merged_at": null,
+      "closed_at": "2025-10-30T17:50:50+00:00"
+    },
+    {
+      "number": 4433,
+      "title": "Added a line for OST Practical",
+      "state": "closed",
+      "user": "Mahii0107",
+      "created_at": "2025-10-30T05:43:43+00:00",
+      "merged_at": null,
+      "closed_at": "2025-10-30T05:47:30+00:00"
+    },
+    {
+      "number": 4431,
+      "title": "Add languages for increased inclusivity",
+      "state": "open",
+      "user": "arduinohatesme",
+      "created_at": "2025-10-29T23:25:40+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4429,
+      "title": "Add a new line to README",
+      "state": "open",
+      "user": "sol1999-ld",
+      "created_at": "2025-10-28T05:04:29+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4428,
+      "title": "docs: added practice note in README",
+      "state": "open",
+      "user": "manojvp16",
+      "created_at": "2025-10-27T09:57:31+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4427,
+      "title": "Feature/advanced practice",
+      "state": "closed",
+      "user": "manojvp16",
+      "created_at": "2025-10-27T09:41:57+00:00",
+      "merged_at": null,
+      "closed_at": "2025-10-27T09:54:40+00:00"
+    },
+    {
+      "number": 4426,
+      "title": "docs: added practice note in README",
+      "state": "closed",
+      "user": "manojvp16",
+      "created_at": "2025-10-27T09:30:58+00:00",
+      "merged_at": null,
+      "closed_at": "2025-10-27T09:54:40+00:00"
+    },
+    {
+      "number": 4425,
+      "title": "changed name",
+      "state": "open",
+      "user": "JayrajMalge",
+      "created_at": "2025-10-27T09:14:29+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4424,
+      "title": "Newone",
+      "state": "open",
+      "user": "wit-student",
+      "created_at": "2025-10-27T09:04:18+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4420,
+      "title": "Update greeting",
+      "state": "open",
+      "user": "temidayo67",
+      "created_at": "2025-10-22T12:57:20+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4417,
+      "title": "Erick Ibarra Heredia Add devcontainer configuration filehttps://github.com/octocat/Hello-W\u2026",
+      "state": "open",
+      "user": "mairucell667-hash",
+      "created_at": "2025-10-22T07:20:17+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4416,
+      "title": "Rename README to Huawei",
+      "state": "open",
+      "user": "lichykonrad1-art",
+      "created_at": "2025-10-22T06:47:07+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4415,
+      "title": "Mellora docs",
+      "state": "open",
+      "user": "Shiro1591",
+      "created_at": "2025-10-21T17:51:40+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4414,
+      "title": "Spenny yeah cool guy",
+      "state": "closed",
+      "user": "spenfr98",
+      "created_at": "2025-10-21T04:00:41+00:00",
+      "merged_at": null,
+      "closed_at": "2025-10-21T04:05:45+00:00"
+    },
+    {
+      "number": 4413,
+      "title": "create jaja",
+      "state": "closed",
+      "user": "spenfr98",
+      "created_at": "2025-10-21T03:53:09+00:00",
+      "merged_at": null,
+      "closed_at": "2025-10-21T03:55:26+00:00"
+    },
+    {
+      "number": 4412,
+      "title": "my-pr",
+      "state": "open",
+      "user": "OlegMatus",
+      "created_at": "2025-10-20T21:40:49+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4411,
+      "title": "add new login",
+      "state": "open",
+      "user": "KasunBandara921",
+      "created_at": "2025-10-20T09:18:35+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4410,
+      "title": "docs: PR de teste para Bootcamp I",
+      "state": "open",
+      "user": "dudocarela",
+      "created_at": "2025-10-19T23:03:02+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4409,
+      "title": "Styrofoam23 patch 1",
+      "state": "open",
+      "user": "styrofoam23",
+      "created_at": "2025-10-18T21:35:27+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4408,
+      "title": "Update README",
+      "state": "open",
+      "user": "ugurartuk",
+      "created_at": "2025-10-18T16:39:03+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4407,
+      "title": "d\u00f6rd\u00fcnc\u00fc commitide att\u0131k",
+      "state": "open",
+      "user": "MuhammetGumusCode",
+      "created_at": "2025-10-18T16:04:36+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4406,
+      "title": "Added a personal note to README as part of the collaboration lab.",
+      "state": "open",
+      "user": "Sp1r3t",
+      "created_at": "2025-10-18T11:47:35+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4393,
+      "title": "Update README",
+      "state": "open",
+      "user": "Deepak910-N",
+      "created_at": "2025-10-16T10:44:43+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4391,
+      "title": "Update README with a test edit ",
+      "state": "open",
+      "user": "VinayPatil8",
+      "created_at": "2025-10-15T06:53:28+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4390,
+      "title": "Update README",
+      "state": "open",
+      "user": "Ellyzahardianty",
+      "created_at": "2025-10-15T02:44:43+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4389,
+      "title": "Update README",
+      "state": "closed",
+      "user": "Ellyzahardianty",
+      "created_at": "2025-10-15T02:41:10+00:00",
+      "merged_at": null,
+      "closed_at": "2025-10-15T02:42:28+00:00"
+    },
+    {
+      "number": 4388,
+      "title": "Update README with new feature- ThuPhuong",
+      "state": "open",
+      "user": "vuthithuphuong5112007",
+      "created_at": "2025-10-14T19:22:38+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4387,
+      "title": "CHanged",
+      "state": "open",
+      "user": "Pradummna",
+      "created_at": "2025-10-14T03:00:18+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4386,
+      "title": "Finished: log",
+      "state": "open",
+      "user": "lharyun",
+      "created_at": "2025-10-13T17:07:02+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4385,
+      "title": "Verification 34627061 \u2013 README update",
+      "state": "open",
+      "user": "23f1001617",
+      "created_at": "2025-10-12T16:52:15+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4384,
+      "title": "Add contributing guidelines for new contributors",
+      "state": "open",
+      "user": "krhrsh",
+      "created_at": "2025-10-12T11:26:20+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4382,
+      "title": "feat: Update README",
+      "state": "open",
+      "user": "Macklin06",
+      "created_at": "2025-10-11T18:38:14+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4375,
+      "title": "Added Tamil greeting feature",
+      "state": "open",
+      "user": "Subin004",
+      "created_at": "2025-10-08T14:30:36+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4373,
+      "title": "B2490Fix: Ensure README ends with a blank line",
+      "state": "closed",
+      "user": "B2490",
+      "created_at": "2025-10-07T04:57:44+00:00",
+      "merged_at": null,
+      "closed_at": "2025-10-08T03:31:24+00:00"
+    },
+    {
+      "number": 4371,
+      "title": "Update README",
+      "state": "open",
+      "user": "liorlevy951",
+      "created_at": "2025-10-05T07:53:18+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4370,
+      "title": "Update README",
+      "state": "closed",
+      "user": "Rano4223",
+      "created_at": "2025-10-03T14:24:29+00:00",
+      "merged_at": null,
+      "closed_at": "2025-10-03T14:39:39+00:00"
+    },
+    {
+      "number": 4369,
+      "title": "Added contribution file",
+      "state": "open",
+      "user": "PriyalTyaral",
+      "created_at": "2025-10-03T13:42:45+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4368,
+      "title": "my bug fix",
+      "state": "open",
+      "user": "Vanashree4",
+      "created_at": "2025-10-03T02:54:57+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4367,
+      "title": "Ajout d'informations personnelles et mise \u00e0 jour du README dans le cadre du TP Git/GitHub. ",
+      "state": "open",
+      "user": "NassreddineSamaali",
+      "created_at": "2025-10-02T16:21:35+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4366,
+      "title": "Fix: Added a line in README",
+      "state": "open",
+      "user": "ritikshub",
+      "created_at": "2025-10-02T09:03:19+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4364,
+      "title": "Save my work before rebase",
+      "state": "closed",
+      "user": "Fedi-1",
+      "created_at": "2025-10-01T19:28:41+00:00",
+      "merged_at": null,
+      "closed_at": "2025-10-01T19:37:16+00:00"
+    },
+    {
+      "number": 4359,
+      "title": "Update README",
+      "state": "open",
+      "user": "dikshith",
+      "created_at": "2025-09-30T11:54:18+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4358,
+      "title": "added my name to readme",
+      "state": "open",
+      "user": "ALIAMIN123",
+      "created_at": "2025-09-28T16:08:57+00:00",
+      "merged_at": null,
+      "closed_at": null
+    },
+    {
+      "number": 4356,
+      "title": "Testcase",
+      "state": "closed",
+      "user": "Bacbucu",
+      "created_at": "2025-09-26T09:26:59+00:00",
+      "merged_at": null,
+      "closed_at": "2025-09-26T13:48:34+00:00"
+    }
+  ],
+  "issues": [
+    {
+      "number": 4441,
+      "title": "Bug: Button not working on mobile",
+      "state": "open",
+      "user": "BlenBizuayehu",
+      "created_at": "2025-11-03T20:52:54+00:00",
+      "closed_at": null,
+      "labels": [],
+      "comments": 0
+    },
+    {
+      "number": 4439,
+      "title": "Test Connection",
+      "state": "open",
+      "user": "LewChew",
+      "created_at": "2025-11-03T00:10:23+00:00",
+      "closed_at": null,
+      "labels": [],
+      "comments": 0
+    },
+    {
+      "number": 4432,
+      "title": "Hello-OpusWorld",
+      "state": "open",
+      "user": "oakhl078-prog",
+      "created_at": "2025-10-30T00:29:51+00:00",
+      "closed_at": null,
+      "labels": [],
+      "comments": 0
+    },
+    {
+      "number": 4430,
+      "title": "Hello-world ",
+      "state": "open",
+      "user": "Okunfolamiadenike25",
+      "created_at": "2025-10-29T22:40:51+00:00",
+      "closed_at": null,
+      "labels": [],
+      "comments": 0
+    },
+    {
+      "number": 4423,
+      "title": "Creating issue with GraphQL",
+      "state": "open",
+      "user": "bishal-codepros",
+      "created_at": "2025-10-27T04:47:27+00:00",
+      "closed_at": null,
+      "labels": [],
+      "comments": 0
+    },
+    {
+      "number": 4422,
+      "title": "Monetization",
+      "state": "open",
+      "user": "Truismnfans1234",
+      "created_at": "2025-10-26T23:34:28+00:00",
+      "closed_at": null,
+      "labels": [],
+      "comments": 4
+    },
+    {
+      "number": 4421,
+      "title": "Hello-World",
+      "state": "open",
+      "user": "mates23-gif",
+      "created_at": "2025-10-26T07:44:52+00:00",
+      "closed_at": null,
+      "labels": [],
+      "comments": 0
+    },
+    {
+      "number": 4419,
+      "title": "Hello World",
+      "state": "closed",
+      "user": "taveezmoihdeen2-svg",
+      "created_at": "2025-10-22T12:26:09+00:00",
+      "closed_at": "2025-10-22T12:27:28+00:00",
+      "labels": [],
+      "comments": 0
+    },
+    {
+      "number": 4418,
+      "title": "private repository",
+      "state": "open",
+      "user": "PetrovS30",
+      "created_at": "2025-10-22T09:42:29+00:00",
+      "closed_at": null,
+      "labels": [],
+      "comments": 1
+    },
+    {
+      "number": 4405,
+      "title": "Cat \ud83d\ude40",
+      "state": "open",
+      "user": "onikuwo835",
+      "created_at": "2025-10-17T16:42:33+00:00",
+      "closed_at": null,
+      "labels": [],
+      "comments": 4
+    },
+    {
+      "number": 4404,
+      "title": "Test 55",
+      "state": "open",
+      "user": "azhderskam",
+      "created_at": "2025-10-17T13:24:02+00:00",
+      "closed_at": null,
+      "labels": [],
+      "comments": 0
+    },
+    {
+      "number": 4403,
+      "title": "block me",
+      "state": "open",
+      "user": "ankan792",
+      "created_at": "2025-10-17T11:20:33+00:00",
+      "closed_at": null,
+      "labels": [],
+      "comments": 0
+    },
+    {
+      "number": 4402,
+      "title": "should be blocked",
+      "state": "open",
+      "user": "ankan792",
+      "created_at": "2025-10-17T11:19:43+00:00",
+      "closed_at": null,
+      "labels": [],
+      "comments": 0
+    },
+    {
+      "number": 4401,
+      "title": "should be blocked",
+      "state": "open",
+      "user": "ankan792",
+      "created_at": "2025-10-17T11:14:23+00:00",
+      "closed_at": null,
+      "labels": [],
+      "comments": 0
+    },
+    {
+      "number": 4400,
+      "title": "Sample Issue",
+      "state": "open",
+      "user": "ankan792",
+      "created_at": "2025-10-17T11:09:52+00:00",
+      "closed_at": null,
+      "labels": [],
+      "comments": 0
+    },
+    {
+      "number": 4399,
+      "title": "NullReferenceException When Viewing Profile Page",
+      "state": "open",
+      "user": "PagelsR",
+      "created_at": "2025-10-16T22:25:20+00:00",
+      "closed_at": null,
+      "labels": [],
+      "comments": 0
+    },
+    {
+      "number": 4398,
+      "title": "Database Timeout Error During Checkout",
+      "state": "open",
+      "user": "PagelsR",
+      "created_at": "2025-10-16T22:24:29+00:00",
+      "closed_at": null,
+      "labels": [],
+      "comments": 0
+    },
+    {
+      "number": 4397,
+      "title": "12345",
+      "state": "open",
+      "user": "kolja-test-account",
+      "created_at": "2025-10-16T17:54:37+00:00",
+      "closed_at": null,
+      "labels": [],
+      "comments": 0
+    },
+    {
+      "number": 4396,
+      "title": "Test Issue with Assignees - 2025-10-16T11:54:35.432579",
+      "state": "open",
+      "user": "kolja-test-account",
+      "created_at": "2025-10-16T17:54:35+00:00",
+      "closed_at": null,
+      "labels": [],
+      "comments": 0
+    },
+    {
+      "number": 4395,
+      "title": "Test Issue with Body - 2025-10-16T11:54:34.483603",
+      "state": "open",
+      "user": "kolja-test-account",
+      "created_at": "2025-10-16T17:54:34+00:00",
+      "closed_at": null,
+      "labels": [],
+      "comments": 0
+    },
+    {
+      "number": 4394,
+      "title": "Test Issue - 2025-10-16T11:54:33.941845",
+      "state": "open",
+      "user": "kolja-test-account",
+      "created_at": "2025-10-16T17:54:34+00:00",
+      "closed_at": null,
+      "labels": [],
+      "comments": 0
+    }
+  ],
+  "contributors": [
+    {
+      "login": "Spaceghost",
+      "contributions": 1,
+      "type": "User"
+    },
+    {
+      "login": "octocat",
+      "contributions": 1,
+      "type": "User"
+    },
+    {
+      "login": "Cameron423698",
+      "contributions": 1,
+      "type": "User"
+    }
+  ],
+  "fetched_at": "2025-11-04T10:59:24.608291"
+}
