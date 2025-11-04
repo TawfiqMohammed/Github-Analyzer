@@ -1,0 +1,27 @@
+{
+  "session_id": "ca2fdb52-97dd-4263-ab81-1a50dd25a8d8",
+  "repo_url": "https://github.com/octocat/Hello-World",
+  "status": "completed",
+  "workflow_summary": {
+    "session_id": "ca2fdb52-97dd-4263-ab81-1a50dd25a8d8",
+    "repo_url": "https://github.com/octocat/Hello-World",
+    "status": "completed",
+    "total_steps": 1,
+    "total_duration": 18.528156,
+    "steps": [
+      {
+        "step": "Data Fetcher",
+        "duration": 18.528156,
+        "status": "data_fetched",
+        "timestamp": "2025-11-04T11:10:43.720800"
+      }
+    ],
+    "completed_at": "2025-11-04T11:10:43.720849"
+  },
+  "data_summary": {
+    "commits": 3,
+    "pull_requests": 50,
+    "issues": 21,
+    "contributors": 3
+  }
+}
